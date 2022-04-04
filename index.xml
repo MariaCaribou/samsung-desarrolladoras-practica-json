@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supermercado nombre="mercadona">
+    <direccion>Calle Antonio Puertas 13, Madrid</direccion>
+
+    <geolocalizacion> 
+        <sur>23°14'10.2 S</sur> 
+        <oeste>8°13'46.7</oeste>
+    </geolocalizacion>
+
+    <listaDeLaCompra>       
+        <producto nombre="pechuga de pollo">
+            <descripcion>bandeja de pollo de 500gr</descripcion>
+            <origen>España</origen>
+            <productoHabitualDeConsumoSinOferta>true</productoHabitualDeConsumoSinOferta>
+            <unidades>1</unidades>
+            <unidadDeMedida>gramos</unidadDeMedida>
+            <precio>4.50</precio>
+            <adquirido>true</adquirido>
+        </producto>
+
+        <producto nombre="leche de soja">
+            <descripcion>brick 1L leche de soja marca Hacendado</descripcion>
+            <origen>Portugal</origen>
+            <productoHabitualDeConsumoSinOferta>true</productoHabitualDeConsumoSinOferta>
+            <unidades>1</unidades>
+            <unidadDeMedida>litros</unidadDeMedida>
+            <precio>2.20</precio>
+            <adquirido>true</adquirido>
+        </producto>
+
+        <producto nombre="platano">
+            <descripcion>platano de canarias denominacion de origen Gran Canaria</descripcion>
+            <origen>España</origen>
+            <productoHabitualDeConsumoSinOferta>true</productoHabitualDeConsumoSinOferta>
+            <unidades>6</unidades>
+            <unidadDeMedida>gramos</unidadDeMedida>
+            <precio>3.60</precio>
+            <adquirido>true</adquirido>
+        </producto>
+
+        <producto nombre="pan de molde">
+            <descripcion>pan de molde natural con semillas marca Bimbo 250gr</descripcion>
+            <origen>España</origen>
+            <productoHabitualDeConsumoSinOferta>true</productoHabitualDeConsumoSinOferta>
+            <unidades>1</unidades>
+            <unidadDeMedida>gramos</unidadDeMedida>
+            <precio>3.80</precio>
+            <adquirido>false</adquirido>
+        </producto>
+
+        <producto nombre="cebolla">
+            <descripcion>cebolla dulce denominacion de origen Madrid</descripcion>
+            <origen>España</origen>
+            <productoHabitualDeConsumoSinOferta>true</productoHabitualDeConsumoSinOferta>
+            <unidades>5</unidades>
+            <unidadDeMedida>gramos</unidadDeMedida>
+            <precio>2.80</precio>
+            <adquirido>false</adquirido>
+        </producto>
+
+        <producto nombre="lentejas">
+            <descripcion>lenteja pardina envase 1Kg</descripcion>
+            <origen>España</origen>
+            <productoHabitualDeConsumoSinOferta>true</productoHabitualDeConsumoSinOferta>
+            <unidades>1</unidades>
+            <unidadDeMedida>gramos</unidadDeMedida>
+            <precio>1.99</precio>
+            <adquirido>false</adquirido>
+        </producto>
+
+        <producto nombre="salmon">
+            <descripcion>salmon denominacion de origen Noruega</descripcion>
+            <origen>Noruega</origen>
+            <productoHabitualDeConsumoSinOferta>true</productoHabitualDeConsumoSinOferta>
+            <unidades>1</unidades>
+            <unidadDeMedida>gramos</unidadDeMedida>
+            <precio>9.50</precio>
+            <adquirido>false</adquirido>
+        </producto>
+    </listaDeLaCompra>
+
+    <ofertas>
+        <oferta nombre="3x2 en latas de atun">
+            <descripcion>3x2 en todas las latas de atun de la marca Hacendado</descripcion>
+            <periodoDeVigencia>01/01/2022, 31/12/2022</periodoDeVigencia>
+            <productoHabitualDeConsumoSinOferta>false</productoHabitualDeConsumoSinOferta>
+            <unidades>3</unidades>
+            <unidadDeMedida>gramos</unidadDeMedida>
+            <precio>5.67</precio>
+            <adquirido>false</adquirido>
+        </oferta>
+        
+        <oferta nombre="2ª unidad 50% en papel higienico">
+            <descripcion>2ª unidad 50% en papel higienico de 6 rollos de la marca Hacendado</descripcion>
+            <periodoDeVigencia>15/05/2022, 01/01/2023</periodoDeVigencia>
+            <productoHabitualDeConsumoSinOferta>false</productoHabitualDeConsumoSinOferta>
+            <unidades>2</unidades>
+            <unidadDeMedida>gramos</unidadDeMedida>
+            <precio>4</precio>
+            <adquirido>true</adquirido>
+        </oferta>
+    </ofertas>
+</supermercado>

@@ -1,0 +1,226 @@
+{
+    "Supermercados" : [
+        {
+            "nombre" : "Mercadona",
+            "direccion" : "Calle Antonio Puertas, 13, Madrid",
+            "geolocalizacion" : [
+                "23°14'10.2 S", 
+                "8°13'46.7 O"
+            ],
+
+            "lista de la compra" : [
+                {   
+                    "producto" : "pechuga de pollo",
+                    "descripcion" : "bandeja de pollo de 500gr",
+                    "origen" : "España",
+                    "producto habitual de consumo sin oferta" : true,
+                    "unidades" : 1,
+                    "unidad de medida" : "gramos",
+                    "precio" : 4.50,
+                    "adquirido" : true
+                },
+
+                {
+                    "producto" : "leche de soja",
+                    "descripcion" : "brick 1L leche de soja marca Hacendado",
+                    "origen" : "Portugal",
+                    "producto habitual de consumo sin oferta" : true,
+                    "unidades" : 1,
+                    "unidad de medida" : "litros",
+                    "precio" : 2.20,
+                    "adquirido" : true
+                },
+            
+                {   
+                    "producto" : "platano",
+                    "descripcion" : "platano de canarias denominacion de origen Gran Canaria",
+                    "origen" : "España",
+                    "producto habitual de consumo sin oferta" : true,
+                    "unidades" : 6,
+                    "unidad de medida" : "gramos",
+                    "precio" : 3.60,
+                    "adquirido" : true
+                },
+
+                {   
+                    "producto" : "pan de molde",
+                    "descripcion" : "pan de molde natural con semillas marca Bimbo 250gr",
+                    "origen" : "España",
+                    "producto habitual de consumo sin oferta" : true,
+                    "unidades" : 1,
+                    "unidad de medida" : "gramos",
+                    "precio" : 3.80,
+                    "adquirido" : false
+                },
+
+                {
+                    "producto" : "cebolla",
+                    "descripcion" : "cebolla dulce denominacion de origen Madrid",
+                    "origen" : "España",
+                    "producto habitual de consumo sin oferta" : true,
+                    "unidades" : "5",
+                    "unidad de medida" : "gramos",
+                    "precio" : 2.80,
+                    "adquirido" : false
+                },
+
+                {
+                    "producto" : "lentejas",
+                    "descripcion" : "lenteja pardina envase 1Kg",
+                    "origen" : "España",
+                    "producto habitual de consumo sin oferta" : true,
+                    "unidades" : 1,
+                    "unidad de medida" : "gramos",
+                    "precio" : 1.99,
+                    "adquirido" : false
+                },
+                {
+                    "producto" : "salmon",
+                    "descripcion" : "salmon denominacion de origen Noruega",
+                    "origen" : "Noruega",
+                    "producto habitual de consumo sin oferta" : true,
+                    "unidades" : 1,
+                    "unidad de medida" : "gramos",
+                    "precio" : "9.50",
+                    "adquirido" : false
+                }
+            ],
+            
+            
+            "ofertas" : [
+                {   
+                    "tipoOferta" : "3x2 en latas de atun",
+                    "descripcion" : "3x2 en todas las latas de atun de la marca Hacendado",
+                    "periodo de vigencia" : "01/01/2022, 31/12/2022",
+                    "producto habitual de consumo sin oferta" : false,
+                    "unidades" : 3,
+                    "unidad de medida" : "gramos",
+                    "precio" : 5.67,
+                    "adquirido" : false
+                },
+
+                {   
+                    "tipoOferta" : "2ª unidad 50% en papel higienico",
+                    "descripcion" : "2ª unidad 50% en papel higienico de 6 rollos de la marca Hacendado",
+                    "periodo de vigencia" : "15/05/2022, 01/01/2023",
+                    "producto habitual de consumo sin oferta" : false,
+                    "unidades" : 2,
+                    "unidad de medida" : "gramos",
+                    "precio" : 4,
+                    "adquirido" : true
+                }  
+            ]
+        },
+
+        {
+            "nombre" : "Aldi",
+            "direccion" : "Calle Paseo de la Rosa, 45, Madrid",
+            "geolocalizacion" : [
+                "30°65'29.2 N", 
+                "7°66'46.7 E"
+            ],
+
+            "lista de la compra" : [
+                {   
+                    "producto" : "pechuga de pollo",
+                    "descripcion" : "bandeja de pollo de 500gr",
+                    "origen" : "España",
+                    "producto habitual de consumo sin oferta" : true,
+                    "unidades" : 1,
+                    "unidad de medida" : "gramos",
+                    "precio" : 4.50,
+                    "adquirido" : true
+                },
+
+                {
+                    "producto" : "leche de soja",
+                    "descripcion" : "brick 1L leche de soja marca Aldi",
+                    "origen" : "Alemania",
+                    "producto habitual de consumo sin oferta" : true,
+                    "unidades" : 1,
+                    "unidad de medida" : "litros",
+                    "precio" : 2.18,
+                    "adquirido" : true
+                },
+            
+                {   
+                    "producto" : "platano",
+                    "descripcion" : "platano de canarias denominacion de origen Tenerife",
+                    "origen" : "España",
+                    "producto habitual de consumo sin oferta" : true,
+                    "unidades" : 6,
+                    "unidad de medida" : "gramos",
+                    "precio" : 3.89,
+                    "adquirido" : true
+                },
+
+                {   
+                    "producto" : "pan de molde",
+                    "descripcion" : "pan de molde natural con semillas marca Bimbo 250gr",
+                    "origen" : "España",
+                    "producto habitual de consumo sin oferta" : true,
+                    "unidades" : 1,
+                    "unidad de medida" : "gramos",
+                    "precio" : 3.80,
+                    "adquirido" : false
+                },
+
+                {
+                    "producto" : "cebolla",
+                    "descripcion" : "cebolla dulce denominacion de origen Palencia",
+                    "origen" : "España",
+                    "producto habitual de consumo sin oferta" : true,
+                    "unidades" : "5",
+                    "unidad de medida" : "gramos",
+                    "precio" : 2.67,
+                    "adquirido" : false
+                },
+
+                {
+                    "producto" : "lentejas",
+                    "descripcion" : "lenteja pardina envase 1Kg",
+                    "origen" : "España",
+                    "producto habitual de consumo sin oferta" : true,
+                    "unidades" : 1,
+                    "unidad de medida" : "gramos",
+                    "precio" : 2.15,
+                    "adquirido" : false
+                },
+                {
+                    "producto" : "salmon",
+                    "descripcion" : "salmon denominacion de origen Cadiz",
+                    "origen" : "España",
+                    "producto habitual de consumo sin oferta" : true,
+                    "unidades" : 1,
+                    "unidad de medida" : "gramos",
+                    "precio" : "7.34",
+                    "adquirido" : false
+                }
+            ],
+            
+            
+            "ofertas" : [
+                {   
+                    "tipoOferta" : "2x1 en caja bombones",
+                    "descripcion" : "2x1 en caja 20 bombones marca Nestle",
+                    "periodo de vigencia" : "15/04/2022, 30/04/2022",
+                    "unidades" : 2,
+                    "unidad de medida" : "gramos",
+                    "precio" : 9.99,
+                    "adquirido" : false
+                },
+
+                {   
+                    "tipoOferta" : "2ª unidad 50% en crema corporal",
+                    "descripcion" : "2ª unidad 50% en crema corporal aloe vera marca Aldi",
+                    "periodo de vigencia" : "01/05/2022, 01/06/2022",
+                    "unidades" : 2,
+                    "unidad de medida" : "gramos",
+                    "precio" : 4.40,
+                    "adquirido" : true
+                }  
+            ]
+        }
+    ]
+}
+
